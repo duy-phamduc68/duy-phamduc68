@@ -4,10 +4,10 @@ Computer Science student, interested in working on AI in tandem with Simulation 
 
 ## Website
 
-Personal Blog and Portfolio.
+My Personal Blog and Portfolio.
 
 <a href="https://yuk068.github.io/">
-  <img src="/media/yuk-blog.png" alt="yuk blog" width="600"/>
+  <img src="https://raw.githubusercontent.com/yuk068/yuk-blog-thumbnail/refs/heads/main/yuk-blog.png" alt="yuk blog" width="100%">
 </a>
 
 ## Featured Projects
