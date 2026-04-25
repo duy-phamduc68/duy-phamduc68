@@ -61,7 +61,7 @@ My Personal Blog and Portfolio.
       A 2D vehicle simulator using a RWD dynamic bicycle model.
       <br><br>
       <a href="https://github.com/duy-phamduc68/Planar-Dynamic-Car-Model" target="_blank" rel="noopener noreferrer">
-        <img alt="dynamic bicycle model" src="https://raw.githubusercontent.com/duy-phamduc68/Planar-Dynamic-Car-Model/main/media/simulator7-1.png" width="100%">
+        <img alt="dynamic bicycle model" src="https://raw.githubusercontent.com/duy-phamduc68/Planar-Dynamic-Car-Model/refs/heads/main/media/showcase.gif" width="100%">
       </a>
     </td>
   </tr>
