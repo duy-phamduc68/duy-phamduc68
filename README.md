@@ -49,7 +49,7 @@ My Personal Blog and Portfolio.
       Hybrid A* with kinematic bicycle model using Reeds-Shepp path. Includes scenario builder, parameter control, and search animation.
       <br><br>
       <a href="https://github.com/duy-phamduc68/Hyrbid-A-Star-Playground" target="_blank" rel="noopener noreferrer">
-        <img alt="hybrid a star" src="https://raw.githubusercontent.com/duy-phamduc68/Hyrbid-A-Star-Playground/main/media/viz_example2.png" width="100%">
+        <img alt="hybrid a star" src="https://raw.githubusercontent.com/duy-phamduc68/Hyrbid-A-Star-Playground/main/media/example_usage.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
