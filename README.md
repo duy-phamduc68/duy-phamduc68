@@ -2,7 +2,7 @@
 
 Computer Science student, interested in working on AI in tandem with Simulation and Digitization (ie. Digital Twin). Wanting to break into Autonomous Vehicle and Robotics.
 
-Open to internships.
+Currently open to internships.
 
 ## Website
 
@@ -37,7 +37,7 @@ My Personal Blog and Portfolio.
       A tool for visualizing top-down traffic view for outputs from TrafficLab3D. Includes preprocessed data for Shinjukugado W.
       <br><br>
       <a href="https://github.com/duy-phamduc68/Shinjukugado-W-Visualization" target="_blank" rel="noopener noreferrer">
-        <img alt="shinjukugado w visualization" src="https://raw.githubusercontent.com/duy-phamduc68/Shinjukugado-W-Visualization/main/shinjuku_objects_optimized.gif" width="100%">
+        <img alt="shinjukugado w visualization" src="https://raw.githubusercontent.com/duy-phamduc68/Shinjukugado-W-Visualization/main/shinjuku_countlines_optimized.gif" width="100%">
       </a>
     </td>
   </tr>
