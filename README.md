@@ -2,6 +2,8 @@
 
 Computer Science student, interested in working on AI in tandem with Simulation and Digitization (ie. Digital Twin). Wanting to break into Autonomous Vehicle and Robotics.
 
+Open to internships.
+
 ## Website
 
 My Personal Blog and Portfolio.
