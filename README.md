@@ -34,7 +34,7 @@ My Personal Blog and Portfolio.
           TL3D Visualization Tool
         </a>
       </strong><br>
-      A tool for visualizing top-down traffic view for outputs from TrafficLab3D. Includes preprocessed data for Shinjukugado W.
+      A tool for visualizing top-down traffic view using outputs from TrafficLab3D. Includes preprocessed data for Shinjukugado W.
       <br><br>
       <a href="https://github.com/duy-phamduc68/Shinjukugado-W-Visualization" target="_blank" rel="noopener noreferrer">
         <img alt="shinjukugado w visualization" src="https://raw.githubusercontent.com/duy-phamduc68/Shinjukugado-W-Visualization/main/shinjuku_countlines_optimized.gif" width="100%">
