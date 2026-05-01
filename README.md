@@ -69,7 +69,3 @@ My Personal Blog and Portfolio.
   </tr>
 </table>
 
-Profile README inspired by 
-<a href="https://github.com/rsasaki0109/rsasaki0109" target="_blank" rel="noopener noreferrer">
-  rsasaki0109
-</a>
