@@ -69,3 +69,4 @@ My Personal Blog and Portfolio.
   </tr>
 </table>
 
+[![Duy Pham Duc profile views](https://u8views.com/api/v1/github/profiles/251842523/views/day-week-month-total-count.svg)](https://u8views.com/github/duy-phamduc68)
