@@ -67,6 +67,28 @@ My Personal Blog and Portfolio.
       </a>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>
+        <a href="https://duy-phamduc68.github.io/RRT-Playground/" target="_blank" rel="noopener noreferrer">
+          RRT Playground
+        </a>
+      </strong><br>
+      Visualize RRT and its variants in 2D environments, live demo available [↓].
+      <br><br>
+      <a href="https://duy-phamduc68.github.io/RRT-Playground/" target="_blank" rel="noopener noreferrer">
+        <img alt="rrt playground" src="https://raw.githubusercontent.com/duy-phamduc68/RRT-Playground/main/media/showcase.gif" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <strong>
+        <a href="https://github.com/duy-phamduc68" target="_blank" rel="noopener noreferrer">
+          Coming soon
+        </a>
+      </strong><br>
+      Still building...
+    </td>
+  </tr>
 </table>
 
 [![Duy Pham Duc profile views](https://u8views.com/api/v1/github/profiles/251842523/views/day-week-month-total-count.svg)](https://u8views.com/github/duy-phamduc68)
