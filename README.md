@@ -34,7 +34,7 @@ My Personal Blog and Portfolio.
           7 DOF Robotic Arm
         </a>
       </strong><br>
-      7 DOF Manipulator with RRT-Connect and Inverse Kinematic, live demo available [↓].
+      7 DOF Manipulator with RRT-Connect and Inverse Kinematics, live demo available [↓].
       <br><br>
       <a href="https://duy-phamduc68.github.io/7-DOF-Robotic-Arm/" target="_blank" rel="noopener noreferrer">
         <img alt="7 dof arm" src="https://raw.githubusercontent.com/duy-phamduc68/7-DOF-Robotic-Arm/refs/heads/main/media/showcase.gif" width="100%">
