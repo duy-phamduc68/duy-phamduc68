@@ -30,14 +30,14 @@ My Personal Blog and Portfolio.
     </td>
     <td valign="top" width="50%">
       <strong>
-        <a href="https://github.com/duy-phamduc68/Shinjukugado-W-Visualization" target="_blank" rel="noopener noreferrer">
-          TL3D Visualization Tool
+        <a href="https://github.com/duy-phamduc68/7-DOF-Robotic-Arm" target="_blank" rel="noopener noreferrer">
+          7 DOF Robotic Arm
         </a>
       </strong><br>
-      A tool for visualizing top-down traffic view using outputs from TrafficLab3D. Includes preprocessed data for Shinjukugado W.
+      7 DOF Manipulator with RRT-Connect and Inverse Kinematic, live demo available [↓].
       <br><br>
-      <a href="https://github.com/duy-phamduc68/Shinjukugado-W-Visualization" target="_blank" rel="noopener noreferrer">
-        <img alt="shinjukugado w visualization" src="https://raw.githubusercontent.com/duy-phamduc68/Shinjukugado-W-Visualization/main/shinjuku_countlines_optimized.gif" width="100%">
+      <a href="https://duy-phamduc68.github.io/7-DOF-Robotic-Arm/" target="_blank" rel="noopener noreferrer">
+        <img alt="7 dof arm" src="https://raw.githubusercontent.com/duy-phamduc68/7-DOF-Robotic-Arm/refs/heads/main/media/showcase.gif" width="100%">
       </a>
     </td>
   </tr>
@@ -70,7 +70,7 @@ My Personal Blog and Portfolio.
   <tr>
     <td valign="top" width="50%">
       <strong>
-        <a href="https://duy-phamduc68.github.io/RRT-Playground/" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/duy-phamduc68/RRT-Playground" target="_blank" rel="noopener noreferrer">
           RRT Playground
         </a>
       </strong><br>
@@ -82,11 +82,15 @@ My Personal Blog and Portfolio.
     </td>
     <td valign="top" width="50%">
       <strong>
-        <a href="https://github.com/duy-phamduc68" target="_blank" rel="noopener noreferrer">
-          Coming soon
+        <a href="https://github.com/duy-phamduc68/Shinjukugado-W-Visualization" target="_blank" rel="noopener noreferrer">
+          TL3D Visualization Tool
         </a>
       </strong><br>
-      Still building...
+      A tool for visualizing top-down traffic view using outputs from TrafficLab3D. Includes preprocessed data for Shinjukugado W.
+      <br><br>
+      <a href="https://github.com/duy-phamduc68/Shinjukugado-W-Visualization" target="_blank" rel="noopener noreferrer">
+        <img alt="shinjukugado w visualization" src="https://raw.githubusercontent.com/duy-phamduc68/Shinjukugado-W-Visualization/main/shinjuku_countlines_optimized.gif" width="100%">
+      </a>
     </td>
   </tr>
 </table>
