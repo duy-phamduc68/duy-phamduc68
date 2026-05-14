@@ -60,7 +60,7 @@ My Personal Blog and Portfolio.
           Planar Dynamic Bicycle Model
         </a>
       </strong><br>
-      A 2D vehicle simulator using a RWD dynamic bicycle model.
+      A 2D vehicle simulator using a RWD dynamic bicycle model. Keyboard + Controller (XInput) support.
       <br><br>
       <a href="https://github.com/duy-phamduc68/Planar-Dynamic-Car-Model" target="_blank" rel="noopener noreferrer">
         <img alt="dynamic bicycle model" src="https://raw.githubusercontent.com/duy-phamduc68/Planar-Dynamic-Car-Model/refs/heads/main/media/showcase.gif" width="100%">
